@@ -4,6 +4,6 @@ This wheel adapter has 2 bearing seats and has been designed so you can press fi
 
 The bearings used are:
 
-⋅⋅*8mm axles - 1x 619 bearing and 1x 608 bearing
-⋅⋅*10mm axles -1x 61800 bearing 1x 61900 bearing 
+⋅⋅* 8mm axles - 1x 619 bearing and 1x 608 bearing
+⋅⋅* 10mm axles -1x 61800 bearing 1x 61900 bearing 
 

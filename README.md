@@ -1,6 +1,6 @@
 ## Venom Wheel Adapter - works with modular timing pulleys and spur gears
 
-This wheel adapter has 2 bearing seats and has been designed so you can press fit adapter into the wheel's core.
+This wheel adapter has 2 bearing seats and has been designed so you can press the adapter into the wheel's core.
 
 The bearings used are:
 
